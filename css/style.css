@@ -35,6 +35,23 @@ h1{
 #pgandi1,#pgandi2,#pgandi3,#pgandi4,#pking1,#pking2,#pking3{
     text-align: justify;
 }
+#gandi,#no{
+    font-weight: bold;
+}
+#gujarat,#londres,#sudafrica{
+    color: red;
+    text-decoration: underline;
+}
+#congreso,#conference{
+    color: blue;
+}
+#dream{
+    text-decoration: underline;
+}
+#diag,#diak{
+    border:  1px solid black;
+    padding: 0.1%;
+}
 #hr1,#hr2{
     background-color: green;
     width: 30%;
